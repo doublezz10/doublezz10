@@ -1,6 +1,6 @@
 - Hi, I’m Zach Zeisler.
 
-- I'm a third-year PhD Candidate in Neuroscience at the Icahn School of Medicine at Mount Sinai.
+- I'm a fourth-year PhD Candidate in Neuroscience at the Icahn School of Medicine at Mount Sinai.
 
 - I’m interested in applying modern data science techniques to neuroscience research. 
 
